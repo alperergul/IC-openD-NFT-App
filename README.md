@@ -132,3 +132,4 @@ dfx canister call rno2w-sqaaa-aaaaa-aaacq-cai transferOwnership '(principal "ryj
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
 # openD-NFT-App
+# openD-NFT-App
